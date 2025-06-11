@@ -1,15 +1,6 @@
-import pygame
-import sys
-import random
-import Settings
-import Player
-import Enemy
-import Item
 from Game import Game
-
-
 
 if __name__ == "__main__":
     game = Game()
+    game.intro()
     game.run()
-

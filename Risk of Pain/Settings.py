@@ -1,7 +1,7 @@
 # --- Konfigurační konstanty ---
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
-TITLE = "Tahová RPG Hra"
+TITLE = "Risk of Pain"
 FPS = 60
 
 # Barvy
